@@ -1,0 +1,4 @@
+*.py[cd]
+*.swp
+tmp/
+env/
